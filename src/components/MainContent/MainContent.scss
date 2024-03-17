@@ -1,0 +1,39 @@
+.banner {
+    background-color: #e7f3ff;
+  .banner-title {
+    text-align: center;
+    font-size: 27px;
+  }
+  .banner-discription {
+    width: 400px;
+    background-color: white;
+    margin: 10px auto;
+    font-size: 37px;
+    text-align: center;
+    font-weight: bold;
+  }
+  .btns {
+    height: 60px;
+    align-items: center; 
+    margin: 30px auto;
+    padding: 0px 30px;
+    box-shadow: 0 3px 0 0 #007779;
+    display: flex;
+    .btnsinside {
+      display: flex;
+      .btn-text {
+        font-size: 17px;
+        padding-top: 13px;
+      }
+    }
+  }
+  .btns:hover {
+    .Arrow-symbol {
+      padding-left: 5px;
+    }
+  }
+  .banner-img{
+    width: 50%;
+    margin:10px 300px;
+  }
+}

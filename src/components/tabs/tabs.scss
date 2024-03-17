@@ -1,0 +1,41 @@
+.coureses{
+    display: flex;
+    margin:50px 50px 30px 50px;
+    .scaler-logo{
+        width: 100px;
+    }
+
+.courses-event{
+    color: #0d3231;
+    font-size: 18px;
+    padding: 0px 10px;
+}
+.courses-folding{
+    color: #00978E;
+    font-size: 19px;
+    font-weight: bold;
+}
+.courses-heading{
+    padding: 0px 10px;
+}
+}
+
+.tabs-list{
+    display: flex;
+   gap:30px;
+    margin-left:  50px ;
+    margin-right: 100px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid grey;
+}
+.active{
+    padding-bottom: 15px;
+    border-bottom: 5px solid #00978E;
+    height:10px;
+}
+.all-events{
+    text-align: end;
+    margin-top: -36px;
+    margin-right: 20px;
+    color:blue;
+}

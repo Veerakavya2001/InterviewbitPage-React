@@ -1,0 +1,19 @@
+.cracked-companies{
+   margin-top: 50px;
+    
+.companies-title-description{
+    font-size: 30px;
+    text-align: center;
+}
+.companies-titles{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding: 50px 30px;
+    padding-left: 90px;
+    .companies-icon{
+        width: 130px;
+        height: 65px;
+    }
+}
+}

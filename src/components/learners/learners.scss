@@ -1,0 +1,88 @@
+
+.learners-details{
+    background-color: #fffaf2;
+    .learners-count{
+        font-size:25px;
+        text-align: center;
+        margin:1px 0px 3px 0px;
+    }
+ }
+ .mock-interview{
+   display: flex;
+    gap: 51px;
+    margin: 50px 64px 50px 70px;
+    .left-text{
+      padding-top: 43px;
+      .banner-heading{
+        font-size:29px;
+        margin: 15px 0px;
+        color: rgb(103, 101, 101);
+     }
+      .free-coding-sec {
+        background-color: #e7f3ff;
+        .coding-sec{
+           font-size: 30px;
+           color: #008aff;
+          
+        }
+      }
+    }
+  
+    .btns{
+      background-color: #d32e3d;
+      font-weight: bold;
+      text-align: center;
+      padding: 15px 30px;
+    
+    }
+    
+      .scaler-logo{
+        text-align: end;
+      }
+      .poster-img{
+        width: 562px;
+        height: 370px;
+  
+      
+    }
+ }
+ .banner-bottom-part{
+  margin-top: -45px;
+  margin-left: 63px;
+   .banner-bottom-text{
+    font-size: 18px;
+    color: #515151;
+}
+.company_logos{
+  width: 145px;
+  margin: 20px 40px 20px 0px;
+}
+ }
+ .ranking{
+  display: flex;
+  align-items: center;
+  margin: 90px 347px 100px 400px;
+  .rankingimg{
+    width: 100px;
+  }
+  .rank-title{
+    font-size: 25px;
+    color: grey;
+    .rank-text{
+    font-weight: bold;
+    color: #484646;
+    padding-left: 10px;
+    }
+  }
+  .rank-subtitle{
+    font-size: 20px;
+    color: grey;
+  }
+ }
+ .course-heading{
+  color: #655ACC;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  
+ }
